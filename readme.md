@@ -3,7 +3,9 @@
 
 # 配置需求
 1. Node > 10.0
-2. 需要BWIKI COOKIE
+2. npm > 8 
+3. yarn > 1.22.0
+4. 需要BWIKI COOKIE
 # 安装指南
 
 ```
