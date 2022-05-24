@@ -1,0 +1,25 @@
+{
+  "name": "MCSWikiBot",
+  "version": "0.0.1",
+  "description": "MCS Wiki Bot",
+  "main": "index.js",
+  "author": "Zerxz",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35",
+    "@types/node-fetch": "^2.6.1",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "eslint": "^8.16.0",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "mwn": "^1.11.4"
+  }
+}
